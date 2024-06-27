@@ -2,7 +2,7 @@ var a = ""
 var b = ""
 var c = " "
 a = "Здарова"
-b = "Заебал"
+b = "Пока"
 print(a + c + b)
 
 for d in "Пельмень"{
